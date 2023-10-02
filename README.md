@@ -4,6 +4,8 @@ Simple database integration example
 
 [Download XAMPP Portable](https://www.apachefriends.org/)
 
+If you are using XAMPP, the user name will be `"root"` and password is `""` (empty) by default.
+
 ## Setup a database on plesk
 
 [Click here](SETUP.md) to see instructions for setting up a database, add a table to the database and add in data to the database.
