@@ -1,6 +1,6 @@
 # Setup a database on plesk
 
-Simple database integration example
+Simple database integration example, if you want to jump ahead, go to the [integrate](INTEGRATE.md) page.
 
 ## Log-in on plesk and select databases.
 
