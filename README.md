@@ -2,7 +2,7 @@
 
 Simple database integration example
 
-[Download XAMPP Portable](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.1.17/)
+[Download XAMPP Portable](https://www.apachefriends.org/)
 
 ## Setup a database on plesk
 
