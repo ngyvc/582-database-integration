@@ -2,6 +2,8 @@
 
 Simple database integration example
 
+[Download XAMPP Portable](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.1.17/)
+
 ## Setup a database on plesk
 
 [Click here](SETUP.md) to see instructions for setting up a database, add a table to the database and add in data to the database.
